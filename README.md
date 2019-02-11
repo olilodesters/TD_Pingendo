@@ -1,2 +1,2 @@
 # TD_Pingendo
-TD personnel
+TD personnel Licence 3 EDHEC
